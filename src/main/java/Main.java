@@ -3,5 +3,7 @@ public class Main {
         TestClass testClass = new TestClass();
         testClass.getClass();
         TestClass.getConnection();
+
+        System.out.println("THIS IS JDBC BRANCH");
     }
 }
